@@ -3,7 +3,10 @@ target/
 **/*.rs.bk
 *.pdb
 .vscode
+.idea/
 
 # Include Cargo.lock in gitignore for libraries.
 # See https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html
 Cargo.lock
+config.ini
+credentials.ini
